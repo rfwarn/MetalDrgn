@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MetalDrgn!
-- 👀 I’m interested in Python, AI, Full Stack Dev.
+- 👀 I’m interested in Python, AI/ML, Full Stack Dev.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on automation initiatives
 - 📫 How to reach me ...

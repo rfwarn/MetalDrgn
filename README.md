@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MetalDrgn!
 - 👀 I’m interested in Python, AI/ML, Full Stack Dev.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JS/CSS/HTML/React
 - 💞️ I’m looking to collaborate on automation initiatives
 - 📫 How to reach me ...
 

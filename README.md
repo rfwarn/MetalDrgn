@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MetalDrgn!
 - 👀 I’m interested in Python, Data Science, AI/ML, Full Stack Web Dev.
-- 🌱 I’m currently learning JS/CSS/HTML/React/...other
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on automation initiatives/improvements
 - 📫 How to reach me ...
 
